@@ -11,6 +11,8 @@
 		7E0243FF260C66E800824F41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0243FE260C66E800824F41 /* ContentView.swift */; };
 		7E024401260C66EB00824F41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E024400260C66EB00824F41 /* Assets.xcassets */; };
 		7E024404260C66EB00824F41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E024403260C66EB00824F41 /* Preview Assets.xcassets */; };
+		7E02440E260C69A700824F41 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E02440D260C69A700824F41 /* ColorCircle.swift */; };
+		7E024411260C7A8E00824F41 /* ButtonStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E024410260C7A8E00824F41 /* ButtonStart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		7E024400260C66EB00824F41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E024403260C66EB00824F41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7E024405260C66EB00824F41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E02440D260C69A700824F41 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
+		7E024410260C7A8E00824F41 /* ButtonStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				7E0243FC260C66E800824F41 /* Traffic_Lights_UIApp.swift */,
 				7E0243FE260C66E800824F41 /* ContentView.swift */,
+				7E02440D260C69A700824F41 /* ColorCircle.swift */,
+				7E024410260C7A8E00824F41 /* ButtonStart.swift */,
 				7E024400260C66EB00824F41 /* Assets.xcassets */,
 				7E024405260C66EB00824F41 /* Info.plist */,
 				7E024402260C66EB00824F41 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				7E0243FF260C66E800824F41 /* ContentView.swift in Sources */,
 				7E0243FD260C66E800824F41 /* Traffic_Lights_UIApp.swift in Sources */,
+				7E024411260C7A8E00824F41 /* ButtonStart.swift in Sources */,
+				7E02440E260C69A700824F41 /* ColorCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
